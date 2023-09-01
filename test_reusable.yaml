@@ -1,0 +1,6 @@
+name: Call Reusable Workflow
+on: [push]
+
+jobs:
+  call-workflow:
+    uses: RachitGupta008/packer-pipeline/.github/workflows/reusable.yaml@main
