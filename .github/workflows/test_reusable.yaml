@@ -3,4 +3,4 @@ on: [push]
 
 jobs:
   call-workflow:
-    uses: RachitGupta008/packer-pipeline/.github/workflows/reusable.yaml@main
+    uses: test-rd-org/reusable-workflows/.github/workflows/reusable.yaml@main
