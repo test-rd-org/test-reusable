@@ -4,5 +4,3 @@ on: [push]
 jobs:
   call-workflow:
     uses: test-rd-org/reusable-workflows/.github/workflows/reusable.yaml@main
-
-
