@@ -3,4 +3,4 @@ on: [push]
 
 jobs:
   call-workflow:
-    uses: test-rd-org/reusable-workflows3/.github/workflows/reusable.yaml@main
+    uses: test-rd-org/reusable-workflow3/.github/workflows/reusable.yaml@main
